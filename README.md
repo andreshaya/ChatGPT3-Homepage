@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 <h2> Homepage Showcase </h2>
 
 <img src="/imgs/Showcase.gif" width="80%" height="40%" />
@@ -10,16 +8,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <h3> Description </h3>
 
-<img src="Second.png" width="50%" height="30%" />
+<img src="/imgs/Second.png" width="50%" height="30%" />
 
 <h3> Features </h3>
 
-<img src="Features.png" width="50%" height="30%" />
+<img src="/imgs/Features.png" width="50%" height="30%" />
 
 <h3> Blog </h3>
 
-<img src="Blog.png" width="50%" height="30%" />
+<img src="/imgs/Blog.png" width="50%" height="30%" />
 
 <h3> Responsive UI </h3>
 
-<img src="Responsive-UI.png" width="100%" height="70%" />
+<img src="Responsive-UI.png" width="70%" height="70%" />
