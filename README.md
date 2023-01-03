@@ -20,4 +20,4 @@
 
 <h3> Responsive UI </h3>
 
-<img src="Responsive-UI.png" width="70%" height="70%" />
+<img src="/imgs/Responsive-UI.png" width="70%" height="70%" />
